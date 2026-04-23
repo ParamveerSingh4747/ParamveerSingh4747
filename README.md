@@ -9,7 +9,7 @@
      real-time telemetry display, custom USB-C power management
    - USB HID PCB schematic (ATMEGA32U4 · USBLC6 ESD protection · KiCad)
    - Competitive robotics @ TechnoBusters PEC — BLDC drivetrains, ESC
-     tuning, wireless control systems; 4th place RoboRace at IIT Mandi
+     tuning, wireless control systems, precise custom airfoil; 4th place RoboRace at IIT Mandi
      (improved from 6th at IIT Ropar through hardware iterations)
 
 🛠️ Stack: ESP32 · ATMEGA32U4 · C/C++ · SPI/UART/I²C · EasyEDA/KiCad ·
